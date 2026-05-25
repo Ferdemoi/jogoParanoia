@@ -1,6 +1,6 @@
-# 🎮 Paranoia – Jogo de Terror em VisualG
+# Paranoia – Jogo de Terror em VisualG
 
-## 📖 Descrição do Projeto
+## Descrição do Projeto
 
 O **Paranoia** é um jogo de terror psicológico desenvolvido em **VisualG**, baseado em escolhas e eventos interativos no console. O jogador precisa explorar ambientes, tomar decisões e sobreviver aos acontecimentos misteriosos apresentados durante a gameplay.
 
@@ -10,9 +10,9 @@ O principal objetivo do projeto é aplicar conceitos de **lógica de programaç�
 
 ---
 
-# 🛠️ Documentação Técnica
+# Documentação Técnica
 
-## 🧠 Funcionalidades
+## Funcionalidades
 
 - Sistema de escolhas interativas
 - Gameplay baseada em narrativa
@@ -29,13 +29,13 @@ O principal objetivo do projeto é aplicar conceitos de **lógica de programaç�
 
 ---
 
-## 🔹 Linguagem Utilizada
+## Linguagem Utilizada
 
 * VisualG (.alg)
 
-## 🔹 Estruturas Aplicadas
+## Estruturas Aplicadas
 
-### ✅ Entrada e Saída de Dados
+### Entrada e Saída de Dados
 
 O jogo utiliza os comandos:
 
@@ -46,7 +46,7 @@ Esses comandos são responsáveis pela interação entre o sistema e o jogador.
 
 ---
 
-### ✅ Estruturas Condicionais
+### Estruturas Condicionais
 
 Foram utilizadas estruturas como:
 
@@ -63,7 +63,7 @@ Essas estruturas controlam:
 
 ---
 
-### ✅ Laços de Repetição
+### Laços de Repetição
 
 O projeto utiliza estruturas de repetição como:
 
@@ -80,7 +80,7 @@ Os laços são usados para:
 
 ---
 
-### ✅ Modularização
+### Modularização
 
 O código foi dividido em vários **procedimentos**, melhorando a organização e facilitando a manutenção.
 
@@ -95,7 +95,7 @@ Essa separação ajuda a reutilizar partes do código e deixa a lógica mais org
 
 ---
 
-### ✅ Variáveis Utilizadas
+### Variáveis Utilizadas
 
 O sistema utiliza variáveis do tipo:
 
@@ -121,7 +121,7 @@ Exemplos:
 
 ---
 
-## 🧠 Lógica Utilizada
+## Lógica Utilizada
 
 O jogo segue uma estrutura baseada em fluxo narrativo.
 
@@ -144,7 +144,7 @@ O sistema também utiliza temporizadores (`timer`) para criar:
 
 ---
 
-## ⚠️ Limitações Conhecidas
+## Limitações Conhecidas
 
 * O jogo funciona apenas no ambiente do VisualG.
 * Algumas animações dependem da velocidade do computador.
@@ -154,14 +154,14 @@ O sistema também utiliza temporizadores (`timer`) para criar:
 
 ---
 
-# ▶️ Manual de Utilização
+# Manual de Utilização
 
-### 1️⃣ Instale o VisualG
+### Instale o VisualG
 Baixe e instale o VisualG no computador.
 
 ---
 
-### 2️⃣ Baixe o Projeto
+### Baixe o Projeto
 Faça o download do arquivo:
 
 ```bash
@@ -170,14 +170,14 @@ JOGO_DE_TERROR_V4.0.ALG
 
 ---
 
-### 3️⃣ Abra o Arquivo
+### Abra o Arquivo
 1. Abra o VisualG;
 2. Clique em `Arquivo → Abrir`;
 3. Selecione o arquivo do projeto.
 
 ---
 
-### 4️⃣ Execute o Jogo
+### Execute o Jogo
 Para iniciar:
 
 - Clique em `Executar → Rodar Algoritmo`;
@@ -185,22 +185,22 @@ Para iniciar:
 
 ---
 
-### 5️⃣ Jogue
+### Jogue
 Siga as instruções exibidas no console e tome decisões durante a gameplay.
 
 ---
 
-# 📂 Estrutura do Repositório
+# Estrutura do Repositório
 
 ```bash
-📁 jogoParanoia
+  jogoParanoia
  ├── JOGO_DE_TERROR_V4.0.ALG
  └── README.md
 ```
 
 ---
 
-# 👥 Integrantes do Grupo
+# Integrantes do Grupo
 
 * Dhabia Luiza  
 * Fernando Rolling
@@ -209,19 +209,19 @@ Siga as instruções exibidas no console e tome decisões durante a gameplay.
 
 ---
 
-# ✅ Requisitos Atendidos
+# Requisitos Atendidos
 
-✔ Entrada e saída de dados
-✔ Estruturas condicionais
-✔ Laços de repetição
-✔ Modularização com procedimentos
-✔ Organização do código
-✔ Documentação técnica
-✔ Manual de utilização
-✔ Estrutura pronta para GitHub
+ Entrada e saída de dados
+ Estruturas condicionais
+ Laços de repetição
+ Modularização com procedimentos
+ Organização do código
+ Documentação técnica
+ Manual de utilização
+ Estrutura pronta para GitHub
 
 ---
 
-# 📌 Considerações Finais
+# Considerações Finais
 
 O projeto Paranoia foi desenvolvido com foco no aprendizado de lógica de programação e criatividade utilizando o VisualG. O jogo demonstra a utilização prática dos principais conceitos estudados em sala, aplicados em um projeto interativo e organizado.
